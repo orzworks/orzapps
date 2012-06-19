@@ -1,0 +1,10 @@
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\bin\Debug\dinnerpicker.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\bin\Debug\dinnerpicker.pdb
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\bin\Debug\dinnerpicker.xml
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.frmMain.resources
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.vbproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.xml
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\dinnerpicker\dinnerpicker\obj\Debug\dinnerpicker.pdb
