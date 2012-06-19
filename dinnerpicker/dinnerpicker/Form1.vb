@@ -25,7 +25,7 @@ Public Class frmMain
         Dim rndDinner As Random
         Dim intDinner As Integer
         rndDinner = New Random
-        intDinner = rndDinner.Next(1, 11)
+        intDinner = rndDinner.Next(1, 12)
 
         'this the code what links a number to a phrase and sets the label on the form to the phrase
         If intDinner = 1 Then
